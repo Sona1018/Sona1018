@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sona</h1>
-<h3 align="center">BTech CSE'27 | Web Dev Enthusiast | DSA Learner 🚀</h3>
+<h3 align="center">BTech CSE'27 
 
 ---
 
